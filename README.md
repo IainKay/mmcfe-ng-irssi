@@ -15,3 +15,5 @@ irssi
 
 Quick-Setup (Ubuntu/Debian)
 ===========================
+
+apt-get install perl libwww-curl irssi
