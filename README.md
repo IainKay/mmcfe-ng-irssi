@@ -8,7 +8,9 @@ Requirements
 ============
 
 Perl 5.8+
+
 WWW::Curl::Easy
+
 irssi
 
 Quick-Setup (Ubuntu/Debian)
